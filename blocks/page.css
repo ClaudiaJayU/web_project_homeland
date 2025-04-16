@@ -6,3 +6,31 @@
   font-weight: normal;
   width: 100%;
 }
+
+.page__logo {
+  display: block;
+  margin: auto;
+  max-width: 254.84px;
+  padding-top: 34px;
+}
+
+@media only screen and (min-width: 544px) and (max-width: 1024px) {
+  .page__logo {
+    max-width: 254px;
+    padding-top: 30px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 544px) {
+  .page__logo {
+    max-width: 188px;
+    padding-top: 20px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .page__logo {
+    width: 70%;
+    padding-top: 20px;
+  }
+}
