@@ -1,12 +1,20 @@
 # Triple Espresso
 
-Nombre del Proyecto: "Web Project Homeland"
+Nombre del Proyecto: "Web Project Homeland" PARTE 1
 
 Descripción:
 En este poyecto trabajamos un sitio responsivo. Comenzamos sin código esta vez, crendo la página desde un inicio. Utilizamos propiedades flex, algunas unidades relativas y media queries.
 
 Plan de mejora:
 -Sé que el usuario no utilizará las devtools para revisar como se hace responsivo el sitio de manera gradual. El sitio quedó según lo solicitado en cada medida del proyecto FIGMA, pero en un futuro me gustaría saber optimizar más el sitio para que se vea coherente en cada una de las medidas al cambiar el tamaño de la pantalla gradualmente.
+
+Nombre del Proyecto: "Web Project Homeland" PARTE 2
+
+Descripción:
+En las nuevas secciones agregadas, trabajamos con grid y con diseño responsivo. Además, se aplicaron efectos de gradientes y sombreados.
+
+Plan de mejora:
+Mantengo el punto anterior. Aunque mejoró bastante la responsibilidad gradual, se puede mejorar en las impágenes.
 
 Enlace github pages:
 
